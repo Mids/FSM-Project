@@ -28,3 +28,13 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+
+# Custom Ignores
+/Assets/01*
+/Assets/03*
+/Assets/04*
+/Assets/05*
+/Assets/06*
+/Assets/AutoSave*
+/ProjectSettings/
